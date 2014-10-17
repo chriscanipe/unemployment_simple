@@ -1,0 +1,21 @@
+
+
+
+.chart {
+  height: 500px;
+  position: relative;
+}
+
+
+.headline {
+	color: red;
+	font-style: italic;
+}
+
+
+.bar {
+	width: 1px;
+	background-color: blue;
+	position: absolute;
+	bottom: 0px;
+}

@@ -1,0 +1,4826 @@
+[
+    {
+        "year": 1948,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 3.4
+    },
+    {
+        "year": 1948,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 3.8
+    },
+    {
+        "year": 1948,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 4
+    },
+    {
+        "year": 1948,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 3.9
+    },
+    {
+        "year": 1948,
+        "month": "May",
+        "monthNum": 5,
+        "val": 3.5
+    },
+    {
+        "year": 1948,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 3.6
+    },
+    {
+        "year": 1948,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 3.6
+    },
+    {
+        "year": 1948,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 3.9
+    },
+    {
+        "year": 1948,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 3.8
+    },
+    {
+        "year": 1948,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 3.7
+    },
+    {
+        "year": 1948,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 3.8
+    },
+    {
+        "year": 1948,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 4
+    },
+    {
+        "year": 1949,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 4.3
+    },
+    {
+        "year": 1949,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 4.7
+    },
+    {
+        "year": 1949,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 5
+    },
+    {
+        "year": 1949,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 5.3
+    },
+    {
+        "year": 1949,
+        "month": "May",
+        "monthNum": 5,
+        "val": 6.1
+    },
+    {
+        "year": 1949,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 6.2
+    },
+    {
+        "year": 1949,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 6.7
+    },
+    {
+        "year": 1949,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 6.8
+    },
+    {
+        "year": 1949,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 6.6
+    },
+    {
+        "year": 1949,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 7.9
+    },
+    {
+        "year": 1949,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 6.4
+    },
+    {
+        "year": 1949,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 6.6
+    },
+    {
+        "year": 1950,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 6.5
+    },
+    {
+        "year": 1950,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 6.4
+    },
+    {
+        "year": 1950,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 6.3
+    },
+    {
+        "year": 1950,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 5.8
+    },
+    {
+        "year": 1950,
+        "month": "May",
+        "monthNum": 5,
+        "val": 5.5
+    },
+    {
+        "year": 1950,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 5.4
+    },
+    {
+        "year": 1950,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 5
+    },
+    {
+        "year": 1950,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 4.5
+    },
+    {
+        "year": 1950,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 4.4
+    },
+    {
+        "year": 1950,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 4.2
+    },
+    {
+        "year": 1950,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 4.2
+    },
+    {
+        "year": 1950,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 4.3
+    },
+    {
+        "year": 1951,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 3.7
+    },
+    {
+        "year": 1951,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 3.4
+    },
+    {
+        "year": 1951,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 3.4
+    },
+    {
+        "year": 1951,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 3.1
+    },
+    {
+        "year": 1951,
+        "month": "May",
+        "monthNum": 5,
+        "val": 3
+    },
+    {
+        "year": 1951,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 3.2
+    },
+    {
+        "year": 1951,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 3.1
+    },
+    {
+        "year": 1951,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 3.1
+    },
+    {
+        "year": 1951,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 3.3
+    },
+    {
+        "year": 1951,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 3.5
+    },
+    {
+        "year": 1951,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 3.5
+    },
+    {
+        "year": 1951,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 3.1
+    },
+    {
+        "year": 1952,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 3.2
+    },
+    {
+        "year": 1952,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 3.1
+    },
+    {
+        "year": 1952,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 2.9
+    },
+    {
+        "year": 1952,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 2.9
+    },
+    {
+        "year": 1952,
+        "month": "May",
+        "monthNum": 5,
+        "val": 3
+    },
+    {
+        "year": 1952,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 3
+    },
+    {
+        "year": 1952,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 3.2
+    },
+    {
+        "year": 1952,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 3.4
+    },
+    {
+        "year": 1952,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 3.1
+    },
+    {
+        "year": 1952,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 3
+    },
+    {
+        "year": 1952,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 2.8
+    },
+    {
+        "year": 1952,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 2.7
+    },
+    {
+        "year": 1953,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 2.9
+    },
+    {
+        "year": 1953,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 2.6
+    },
+    {
+        "year": 1953,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 2.6
+    },
+    {
+        "year": 1953,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 2.7
+    },
+    {
+        "year": 1953,
+        "month": "May",
+        "monthNum": 5,
+        "val": 2.5
+    },
+    {
+        "year": 1953,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 2.5
+    },
+    {
+        "year": 1953,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 2.6
+    },
+    {
+        "year": 1953,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 2.7
+    },
+    {
+        "year": 1953,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 2.9
+    },
+    {
+        "year": 1953,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 3.1
+    },
+    {
+        "year": 1953,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 3.5
+    },
+    {
+        "year": 1953,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 4.5
+    },
+    {
+        "year": 1954,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 4.9
+    },
+    {
+        "year": 1954,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 5.2
+    },
+    {
+        "year": 1954,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 5.7
+    },
+    {
+        "year": 1954,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 5.9
+    },
+    {
+        "year": 1954,
+        "month": "May",
+        "monthNum": 5,
+        "val": 5.9
+    },
+    {
+        "year": 1954,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 5.6
+    },
+    {
+        "year": 1954,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 5.8
+    },
+    {
+        "year": 1954,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 6
+    },
+    {
+        "year": 1954,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 6.1
+    },
+    {
+        "year": 1954,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 5.7
+    },
+    {
+        "year": 1954,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 5.3
+    },
+    {
+        "year": 1954,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 5
+    },
+    {
+        "year": 1955,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 4.9
+    },
+    {
+        "year": 1955,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 4.7
+    },
+    {
+        "year": 1955,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 4.6
+    },
+    {
+        "year": 1955,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 4.7
+    },
+    {
+        "year": 1955,
+        "month": "May",
+        "monthNum": 5,
+        "val": 4.3
+    },
+    {
+        "year": 1955,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 4.2
+    },
+    {
+        "year": 1955,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 4
+    },
+    {
+        "year": 1955,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 4.2
+    },
+    {
+        "year": 1955,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 4.1
+    },
+    {
+        "year": 1955,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 4.3
+    },
+    {
+        "year": 1955,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 4.2
+    },
+    {
+        "year": 1955,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 4.2
+    },
+    {
+        "year": 1956,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 4
+    },
+    {
+        "year": 1956,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 3.9
+    },
+    {
+        "year": 1956,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 4.2
+    },
+    {
+        "year": 1956,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 4
+    },
+    {
+        "year": 1956,
+        "month": "May",
+        "monthNum": 5,
+        "val": 4.3
+    },
+    {
+        "year": 1956,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 4.3
+    },
+    {
+        "year": 1956,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 4.4
+    },
+    {
+        "year": 1956,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 4.1
+    },
+    {
+        "year": 1956,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 3.9
+    },
+    {
+        "year": 1956,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 3.9
+    },
+    {
+        "year": 1956,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 4.3
+    },
+    {
+        "year": 1956,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 4.2
+    },
+    {
+        "year": 1957,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 4.2
+    },
+    {
+        "year": 1957,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 3.9
+    },
+    {
+        "year": 1957,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 3.7
+    },
+    {
+        "year": 1957,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 3.9
+    },
+    {
+        "year": 1957,
+        "month": "May",
+        "monthNum": 5,
+        "val": 4.1
+    },
+    {
+        "year": 1957,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 4.3
+    },
+    {
+        "year": 1957,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 4.2
+    },
+    {
+        "year": 1957,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 4.1
+    },
+    {
+        "year": 1957,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 4.4
+    },
+    {
+        "year": 1957,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 4.5
+    },
+    {
+        "year": 1957,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 5.1
+    },
+    {
+        "year": 1957,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 5.2
+    },
+    {
+        "year": 1958,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 5.8
+    },
+    {
+        "year": 1958,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 6.4
+    },
+    {
+        "year": 1958,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 6.7
+    },
+    {
+        "year": 1958,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 7.4
+    },
+    {
+        "year": 1958,
+        "month": "May",
+        "monthNum": 5,
+        "val": 7.4
+    },
+    {
+        "year": 1958,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 7.3
+    },
+    {
+        "year": 1958,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 7.5
+    },
+    {
+        "year": 1958,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 7.4
+    },
+    {
+        "year": 1958,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 7.1
+    },
+    {
+        "year": 1958,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 6.7
+    },
+    {
+        "year": 1958,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 6.2
+    },
+    {
+        "year": 1958,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 6.2
+    },
+    {
+        "year": 1959,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 6
+    },
+    {
+        "year": 1959,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 5.9
+    },
+    {
+        "year": 1959,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 5.6
+    },
+    {
+        "year": 1959,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 5.2
+    },
+    {
+        "year": 1959,
+        "month": "May",
+        "monthNum": 5,
+        "val": 5.1
+    },
+    {
+        "year": 1959,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 5
+    },
+    {
+        "year": 1959,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 5.1
+    },
+    {
+        "year": 1959,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 5.2
+    },
+    {
+        "year": 1959,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 5.5
+    },
+    {
+        "year": 1959,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 5.7
+    },
+    {
+        "year": 1959,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 5.8
+    },
+    {
+        "year": 1959,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 5.3
+    },
+    {
+        "year": 1960,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 5.2
+    },
+    {
+        "year": 1960,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 4.8
+    },
+    {
+        "year": 1960,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 5.4
+    },
+    {
+        "year": 1960,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 5.2
+    },
+    {
+        "year": 1960,
+        "month": "May",
+        "monthNum": 5,
+        "val": 5.1
+    },
+    {
+        "year": 1960,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 5.4
+    },
+    {
+        "year": 1960,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 5.5
+    },
+    {
+        "year": 1960,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 5.6
+    },
+    {
+        "year": 1960,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 5.5
+    },
+    {
+        "year": 1960,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 6.1
+    },
+    {
+        "year": 1960,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 6.1
+    },
+    {
+        "year": 1960,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 6.6
+    },
+    {
+        "year": 1961,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 6.6
+    },
+    {
+        "year": 1961,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 6.9
+    },
+    {
+        "year": 1961,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 6.9
+    },
+    {
+        "year": 1961,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 7
+    },
+    {
+        "year": 1961,
+        "month": "May",
+        "monthNum": 5,
+        "val": 7.1
+    },
+    {
+        "year": 1961,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 6.9
+    },
+    {
+        "year": 1961,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 7
+    },
+    {
+        "year": 1961,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 6.6
+    },
+    {
+        "year": 1961,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 6.7
+    },
+    {
+        "year": 1961,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 6.5
+    },
+    {
+        "year": 1961,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 6.1
+    },
+    {
+        "year": 1961,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 6
+    },
+    {
+        "year": 1962,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 5.8
+    },
+    {
+        "year": 1962,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 5.5
+    },
+    {
+        "year": 1962,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 5.6
+    },
+    {
+        "year": 1962,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 5.6
+    },
+    {
+        "year": 1962,
+        "month": "May",
+        "monthNum": 5,
+        "val": 5.5
+    },
+    {
+        "year": 1962,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 5.5
+    },
+    {
+        "year": 1962,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 5.4
+    },
+    {
+        "year": 1962,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 5.7
+    },
+    {
+        "year": 1962,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 5.6
+    },
+    {
+        "year": 1962,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 5.4
+    },
+    {
+        "year": 1962,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 5.7
+    },
+    {
+        "year": 1962,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 5.5
+    },
+    {
+        "year": 1963,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 5.7
+    },
+    {
+        "year": 1963,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 5.9
+    },
+    {
+        "year": 1963,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 5.7
+    },
+    {
+        "year": 1963,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 5.7
+    },
+    {
+        "year": 1963,
+        "month": "May",
+        "monthNum": 5,
+        "val": 5.9
+    },
+    {
+        "year": 1963,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 5.6
+    },
+    {
+        "year": 1963,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 5.6
+    },
+    {
+        "year": 1963,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 5.4
+    },
+    {
+        "year": 1963,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 5.5
+    },
+    {
+        "year": 1963,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 5.5
+    },
+    {
+        "year": 1963,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 5.7
+    },
+    {
+        "year": 1963,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 5.5
+    },
+    {
+        "year": 1964,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 5.6
+    },
+    {
+        "year": 1964,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 5.4
+    },
+    {
+        "year": 1964,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 5.4
+    },
+    {
+        "year": 1964,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 5.3
+    },
+    {
+        "year": 1964,
+        "month": "May",
+        "monthNum": 5,
+        "val": 5.1
+    },
+    {
+        "year": 1964,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 5.2
+    },
+    {
+        "year": 1964,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 4.9
+    },
+    {
+        "year": 1964,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 5
+    },
+    {
+        "year": 1964,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 5.1
+    },
+    {
+        "year": 1964,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 5.1
+    },
+    {
+        "year": 1964,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 4.8
+    },
+    {
+        "year": 1964,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 5
+    },
+    {
+        "year": 1965,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 4.9
+    },
+    {
+        "year": 1965,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 5.1
+    },
+    {
+        "year": 1965,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 4.7
+    },
+    {
+        "year": 1965,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 4.8
+    },
+    {
+        "year": 1965,
+        "month": "May",
+        "monthNum": 5,
+        "val": 4.6
+    },
+    {
+        "year": 1965,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 4.6
+    },
+    {
+        "year": 1965,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 4.4
+    },
+    {
+        "year": 1965,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 4.4
+    },
+    {
+        "year": 1965,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 4.3
+    },
+    {
+        "year": 1965,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 4.2
+    },
+    {
+        "year": 1965,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 4.1
+    },
+    {
+        "year": 1965,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 4
+    },
+    {
+        "year": 1966,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 4
+    },
+    {
+        "year": 1966,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 3.8
+    },
+    {
+        "year": 1966,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 3.8
+    },
+    {
+        "year": 1966,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 3.8
+    },
+    {
+        "year": 1966,
+        "month": "May",
+        "monthNum": 5,
+        "val": 3.9
+    },
+    {
+        "year": 1966,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 3.8
+    },
+    {
+        "year": 1966,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 3.8
+    },
+    {
+        "year": 1966,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 3.8
+    },
+    {
+        "year": 1966,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 3.7
+    },
+    {
+        "year": 1966,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 3.7
+    },
+    {
+        "year": 1966,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 3.6
+    },
+    {
+        "year": 1966,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 3.8
+    },
+    {
+        "year": 1967,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 3.9
+    },
+    {
+        "year": 1967,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 3.8
+    },
+    {
+        "year": 1967,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 3.8
+    },
+    {
+        "year": 1967,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 3.8
+    },
+    {
+        "year": 1967,
+        "month": "May",
+        "monthNum": 5,
+        "val": 3.8
+    },
+    {
+        "year": 1967,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 3.9
+    },
+    {
+        "year": 1967,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 3.8
+    },
+    {
+        "year": 1967,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 3.8
+    },
+    {
+        "year": 1967,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 3.8
+    },
+    {
+        "year": 1967,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 4
+    },
+    {
+        "year": 1967,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 3.9
+    },
+    {
+        "year": 1967,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 3.8
+    },
+    {
+        "year": 1968,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 3.7
+    },
+    {
+        "year": 1968,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 3.8
+    },
+    {
+        "year": 1968,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 3.7
+    },
+    {
+        "year": 1968,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 3.5
+    },
+    {
+        "year": 1968,
+        "month": "May",
+        "monthNum": 5,
+        "val": 3.5
+    },
+    {
+        "year": 1968,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 3.7
+    },
+    {
+        "year": 1968,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 3.7
+    },
+    {
+        "year": 1968,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 3.5
+    },
+    {
+        "year": 1968,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 3.4
+    },
+    {
+        "year": 1968,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 3.4
+    },
+    {
+        "year": 1968,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 3.4
+    },
+    {
+        "year": 1968,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 3.4
+    },
+    {
+        "year": 1969,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 3.4
+    },
+    {
+        "year": 1969,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 3.4
+    },
+    {
+        "year": 1969,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 3.4
+    },
+    {
+        "year": 1969,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 3.4
+    },
+    {
+        "year": 1969,
+        "month": "May",
+        "monthNum": 5,
+        "val": 3.4
+    },
+    {
+        "year": 1969,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 3.5
+    },
+    {
+        "year": 1969,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 3.5
+    },
+    {
+        "year": 1969,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 3.5
+    },
+    {
+        "year": 1969,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 3.7
+    },
+    {
+        "year": 1969,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 3.7
+    },
+    {
+        "year": 1969,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 3.5
+    },
+    {
+        "year": 1969,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 3.5
+    },
+    {
+        "year": 1970,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 3.9
+    },
+    {
+        "year": 1970,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 4.2
+    },
+    {
+        "year": 1970,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 4.4
+    },
+    {
+        "year": 1970,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 4.6
+    },
+    {
+        "year": 1970,
+        "month": "May",
+        "monthNum": 5,
+        "val": 4.8
+    },
+    {
+        "year": 1970,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 4.9
+    },
+    {
+        "year": 1970,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 5
+    },
+    {
+        "year": 1970,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 5.1
+    },
+    {
+        "year": 1970,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 5.4
+    },
+    {
+        "year": 1970,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 5.5
+    },
+    {
+        "year": 1970,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 5.9
+    },
+    {
+        "year": 1970,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 6.1
+    },
+    {
+        "year": 1971,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 5.9
+    },
+    {
+        "year": 1971,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 5.9
+    },
+    {
+        "year": 1971,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 6
+    },
+    {
+        "year": 1971,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 5.9
+    },
+    {
+        "year": 1971,
+        "month": "May",
+        "monthNum": 5,
+        "val": 5.9
+    },
+    {
+        "year": 1971,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 5.9
+    },
+    {
+        "year": 1971,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 6
+    },
+    {
+        "year": 1971,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 6.1
+    },
+    {
+        "year": 1971,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 6
+    },
+    {
+        "year": 1971,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 5.8
+    },
+    {
+        "year": 1971,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 6
+    },
+    {
+        "year": 1971,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 6
+    },
+    {
+        "year": 1972,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 5.8
+    },
+    {
+        "year": 1972,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 5.7
+    },
+    {
+        "year": 1972,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 5.8
+    },
+    {
+        "year": 1972,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 5.7
+    },
+    {
+        "year": 1972,
+        "month": "May",
+        "monthNum": 5,
+        "val": 5.7
+    },
+    {
+        "year": 1972,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 5.7
+    },
+    {
+        "year": 1972,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 5.6
+    },
+    {
+        "year": 1972,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 5.6
+    },
+    {
+        "year": 1972,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 5.5
+    },
+    {
+        "year": 1972,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 5.6
+    },
+    {
+        "year": 1972,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 5.3
+    },
+    {
+        "year": 1972,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 5.2
+    },
+    {
+        "year": 1973,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 4.9
+    },
+    {
+        "year": 1973,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 5
+    },
+    {
+        "year": 1973,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 4.9
+    },
+    {
+        "year": 1973,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 5
+    },
+    {
+        "year": 1973,
+        "month": "May",
+        "monthNum": 5,
+        "val": 4.9
+    },
+    {
+        "year": 1973,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 4.9
+    },
+    {
+        "year": 1973,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 4.8
+    },
+    {
+        "year": 1973,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 4.8
+    },
+    {
+        "year": 1973,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 4.8
+    },
+    {
+        "year": 1973,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 4.6
+    },
+    {
+        "year": 1973,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 4.8
+    },
+    {
+        "year": 1973,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 4.9
+    },
+    {
+        "year": 1974,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 5.1
+    },
+    {
+        "year": 1974,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 5.2
+    },
+    {
+        "year": 1974,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 5.1
+    },
+    {
+        "year": 1974,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 5.1
+    },
+    {
+        "year": 1974,
+        "month": "May",
+        "monthNum": 5,
+        "val": 5.1
+    },
+    {
+        "year": 1974,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 5.4
+    },
+    {
+        "year": 1974,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 5.5
+    },
+    {
+        "year": 1974,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 5.5
+    },
+    {
+        "year": 1974,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 5.9
+    },
+    {
+        "year": 1974,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 6
+    },
+    {
+        "year": 1974,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 6.6
+    },
+    {
+        "year": 1974,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 7.2
+    },
+    {
+        "year": 1975,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 8.1
+    },
+    {
+        "year": 1975,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 8.1
+    },
+    {
+        "year": 1975,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 8.6
+    },
+    {
+        "year": 1975,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 8.8
+    },
+    {
+        "year": 1975,
+        "month": "May",
+        "monthNum": 5,
+        "val": 9
+    },
+    {
+        "year": 1975,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 8.8
+    },
+    {
+        "year": 1975,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 8.6
+    },
+    {
+        "year": 1975,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 8.4
+    },
+    {
+        "year": 1975,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 8.4
+    },
+    {
+        "year": 1975,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 8.4
+    },
+    {
+        "year": 1975,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 8.3
+    },
+    {
+        "year": 1975,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 8.2
+    },
+    {
+        "year": 1976,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 7.9
+    },
+    {
+        "year": 1976,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 7.7
+    },
+    {
+        "year": 1976,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 7.6
+    },
+    {
+        "year": 1976,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 7.7
+    },
+    {
+        "year": 1976,
+        "month": "May",
+        "monthNum": 5,
+        "val": 7.4
+    },
+    {
+        "year": 1976,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 7.6
+    },
+    {
+        "year": 1976,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 7.8
+    },
+    {
+        "year": 1976,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 7.8
+    },
+    {
+        "year": 1976,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 7.6
+    },
+    {
+        "year": 1976,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 7.7
+    },
+    {
+        "year": 1976,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 7.8
+    },
+    {
+        "year": 1976,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 7.8
+    },
+    {
+        "year": 1977,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 7.5
+    },
+    {
+        "year": 1977,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 7.6
+    },
+    {
+        "year": 1977,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 7.4
+    },
+    {
+        "year": 1977,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 7.2
+    },
+    {
+        "year": 1977,
+        "month": "May",
+        "monthNum": 5,
+        "val": 7
+    },
+    {
+        "year": 1977,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 7.2
+    },
+    {
+        "year": 1977,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 6.9
+    },
+    {
+        "year": 1977,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 7
+    },
+    {
+        "year": 1977,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 6.8
+    },
+    {
+        "year": 1977,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 6.8
+    },
+    {
+        "year": 1977,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 6.8
+    },
+    {
+        "year": 1977,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 6.4
+    },
+    {
+        "year": 1978,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 6.4
+    },
+    {
+        "year": 1978,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 6.3
+    },
+    {
+        "year": 1978,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 6.3
+    },
+    {
+        "year": 1978,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 6.1
+    },
+    {
+        "year": 1978,
+        "month": "May",
+        "monthNum": 5,
+        "val": 6
+    },
+    {
+        "year": 1978,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 5.9
+    },
+    {
+        "year": 1978,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 6.2
+    },
+    {
+        "year": 1978,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 5.9
+    },
+    {
+        "year": 1978,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 6
+    },
+    {
+        "year": 1978,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 5.8
+    },
+    {
+        "year": 1978,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 5.9
+    },
+    {
+        "year": 1978,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 6
+    },
+    {
+        "year": 1979,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 5.9
+    },
+    {
+        "year": 1979,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 5.9
+    },
+    {
+        "year": 1979,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 5.8
+    },
+    {
+        "year": 1979,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 5.8
+    },
+    {
+        "year": 1979,
+        "month": "May",
+        "monthNum": 5,
+        "val": 5.6
+    },
+    {
+        "year": 1979,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 5.7
+    },
+    {
+        "year": 1979,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 5.7
+    },
+    {
+        "year": 1979,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 6
+    },
+    {
+        "year": 1979,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 5.9
+    },
+    {
+        "year": 1979,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 6
+    },
+    {
+        "year": 1979,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 5.9
+    },
+    {
+        "year": 1979,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 6
+    },
+    {
+        "year": 1980,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 6.3
+    },
+    {
+        "year": 1980,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 6.3
+    },
+    {
+        "year": 1980,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 6.3
+    },
+    {
+        "year": 1980,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 6.9
+    },
+    {
+        "year": 1980,
+        "month": "May",
+        "monthNum": 5,
+        "val": 7.5
+    },
+    {
+        "year": 1980,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 7.6
+    },
+    {
+        "year": 1980,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 7.8
+    },
+    {
+        "year": 1980,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 7.7
+    },
+    {
+        "year": 1980,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 7.5
+    },
+    {
+        "year": 1980,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 7.5
+    },
+    {
+        "year": 1980,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 7.5
+    },
+    {
+        "year": 1980,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 7.2
+    },
+    {
+        "year": 1981,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 7.5
+    },
+    {
+        "year": 1981,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 7.4
+    },
+    {
+        "year": 1981,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 7.4
+    },
+    {
+        "year": 1981,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 7.2
+    },
+    {
+        "year": 1981,
+        "month": "May",
+        "monthNum": 5,
+        "val": 7.5
+    },
+    {
+        "year": 1981,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 7.5
+    },
+    {
+        "year": 1981,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 7.2
+    },
+    {
+        "year": 1981,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 7.4
+    },
+    {
+        "year": 1981,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 7.6
+    },
+    {
+        "year": 1981,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 7.9
+    },
+    {
+        "year": 1981,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 8.3
+    },
+    {
+        "year": 1981,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 8.5
+    },
+    {
+        "year": 1982,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 8.6
+    },
+    {
+        "year": 1982,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 8.9
+    },
+    {
+        "year": 1982,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 9
+    },
+    {
+        "year": 1982,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 9.3
+    },
+    {
+        "year": 1982,
+        "month": "May",
+        "monthNum": 5,
+        "val": 9.4
+    },
+    {
+        "year": 1982,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 9.6
+    },
+    {
+        "year": 1982,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 9.8
+    },
+    {
+        "year": 1982,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 9.8
+    },
+    {
+        "year": 1982,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 10.1
+    },
+    {
+        "year": 1982,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 10.4
+    },
+    {
+        "year": 1982,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 10.8
+    },
+    {
+        "year": 1982,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 10.8
+    },
+    {
+        "year": 1983,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 10.4
+    },
+    {
+        "year": 1983,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 10.4
+    },
+    {
+        "year": 1983,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 10.3
+    },
+    {
+        "year": 1983,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 10.2
+    },
+    {
+        "year": 1983,
+        "month": "May",
+        "monthNum": 5,
+        "val": 10.1
+    },
+    {
+        "year": 1983,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 10.1
+    },
+    {
+        "year": 1983,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 9.4
+    },
+    {
+        "year": 1983,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 9.5
+    },
+    {
+        "year": 1983,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 9.2
+    },
+    {
+        "year": 1983,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 8.8
+    },
+    {
+        "year": 1983,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 8.5
+    },
+    {
+        "year": 1983,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 8.3
+    },
+    {
+        "year": 1984,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 8
+    },
+    {
+        "year": 1984,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 7.8
+    },
+    {
+        "year": 1984,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 7.8
+    },
+    {
+        "year": 1984,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 7.7
+    },
+    {
+        "year": 1984,
+        "month": "May",
+        "monthNum": 5,
+        "val": 7.4
+    },
+    {
+        "year": 1984,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 7.2
+    },
+    {
+        "year": 1984,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 7.5
+    },
+    {
+        "year": 1984,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 7.5
+    },
+    {
+        "year": 1984,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 7.3
+    },
+    {
+        "year": 1984,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 7.4
+    },
+    {
+        "year": 1984,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 7.2
+    },
+    {
+        "year": 1984,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 7.3
+    },
+    {
+        "year": 1985,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 7.3
+    },
+    {
+        "year": 1985,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 7.2
+    },
+    {
+        "year": 1985,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 7.2
+    },
+    {
+        "year": 1985,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 7.3
+    },
+    {
+        "year": 1985,
+        "month": "May",
+        "monthNum": 5,
+        "val": 7.2
+    },
+    {
+        "year": 1985,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 7.4
+    },
+    {
+        "year": 1985,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 7.4
+    },
+    {
+        "year": 1985,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 7.1
+    },
+    {
+        "year": 1985,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 7.1
+    },
+    {
+        "year": 1985,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 7.1
+    },
+    {
+        "year": 1985,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 7
+    },
+    {
+        "year": 1985,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 7
+    },
+    {
+        "year": 1986,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 6.7
+    },
+    {
+        "year": 1986,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 7.2
+    },
+    {
+        "year": 1986,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 7.2
+    },
+    {
+        "year": 1986,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 7.1
+    },
+    {
+        "year": 1986,
+        "month": "May",
+        "monthNum": 5,
+        "val": 7.2
+    },
+    {
+        "year": 1986,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 7.2
+    },
+    {
+        "year": 1986,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 7
+    },
+    {
+        "year": 1986,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 6.9
+    },
+    {
+        "year": 1986,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 7
+    },
+    {
+        "year": 1986,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 7
+    },
+    {
+        "year": 1986,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 6.9
+    },
+    {
+        "year": 1986,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 6.6
+    },
+    {
+        "year": 1987,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 6.6
+    },
+    {
+        "year": 1987,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 6.6
+    },
+    {
+        "year": 1987,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 6.6
+    },
+    {
+        "year": 1987,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 6.3
+    },
+    {
+        "year": 1987,
+        "month": "May",
+        "monthNum": 5,
+        "val": 6.3
+    },
+    {
+        "year": 1987,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 6.2
+    },
+    {
+        "year": 1987,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 6.1
+    },
+    {
+        "year": 1987,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 6
+    },
+    {
+        "year": 1987,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 5.9
+    },
+    {
+        "year": 1987,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 6
+    },
+    {
+        "year": 1987,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 5.8
+    },
+    {
+        "year": 1987,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 5.7
+    },
+    {
+        "year": 1988,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 5.7
+    },
+    {
+        "year": 1988,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 5.7
+    },
+    {
+        "year": 1988,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 5.7
+    },
+    {
+        "year": 1988,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 5.4
+    },
+    {
+        "year": 1988,
+        "month": "May",
+        "monthNum": 5,
+        "val": 5.6
+    },
+    {
+        "year": 1988,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 5.4
+    },
+    {
+        "year": 1988,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 5.4
+    },
+    {
+        "year": 1988,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 5.6
+    },
+    {
+        "year": 1988,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 5.4
+    },
+    {
+        "year": 1988,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 5.4
+    },
+    {
+        "year": 1988,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 5.3
+    },
+    {
+        "year": 1988,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 5.3
+    },
+    {
+        "year": 1989,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 5.4
+    },
+    {
+        "year": 1989,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 5.2
+    },
+    {
+        "year": 1989,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 5
+    },
+    {
+        "year": 1989,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 5.2
+    },
+    {
+        "year": 1989,
+        "month": "May",
+        "monthNum": 5,
+        "val": 5.2
+    },
+    {
+        "year": 1989,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 5.3
+    },
+    {
+        "year": 1989,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 5.2
+    },
+    {
+        "year": 1989,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 5.2
+    },
+    {
+        "year": 1989,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 5.3
+    },
+    {
+        "year": 1989,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 5.3
+    },
+    {
+        "year": 1989,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 5.4
+    },
+    {
+        "year": 1989,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 5.4
+    },
+    {
+        "year": 1990,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 5.4
+    },
+    {
+        "year": 1990,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 5.3
+    },
+    {
+        "year": 1990,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 5.2
+    },
+    {
+        "year": 1990,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 5.4
+    },
+    {
+        "year": 1990,
+        "month": "May",
+        "monthNum": 5,
+        "val": 5.4
+    },
+    {
+        "year": 1990,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 5.2
+    },
+    {
+        "year": 1990,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 5.5
+    },
+    {
+        "year": 1990,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 5.7
+    },
+    {
+        "year": 1990,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 5.9
+    },
+    {
+        "year": 1990,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 5.9
+    },
+    {
+        "year": 1990,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 6.2
+    },
+    {
+        "year": 1990,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 6.3
+    },
+    {
+        "year": 1991,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 6.4
+    },
+    {
+        "year": 1991,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 6.6
+    },
+    {
+        "year": 1991,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 6.8
+    },
+    {
+        "year": 1991,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 6.7
+    },
+    {
+        "year": 1991,
+        "month": "May",
+        "monthNum": 5,
+        "val": 6.9
+    },
+    {
+        "year": 1991,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 6.9
+    },
+    {
+        "year": 1991,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 6.8
+    },
+    {
+        "year": 1991,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 6.9
+    },
+    {
+        "year": 1991,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 6.9
+    },
+    {
+        "year": 1991,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 7
+    },
+    {
+        "year": 1991,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 7
+    },
+    {
+        "year": 1991,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 7.3
+    },
+    {
+        "year": 1992,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 7.3
+    },
+    {
+        "year": 1992,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 7.4
+    },
+    {
+        "year": 1992,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 7.4
+    },
+    {
+        "year": 1992,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 7.4
+    },
+    {
+        "year": 1992,
+        "month": "May",
+        "monthNum": 5,
+        "val": 7.6
+    },
+    {
+        "year": 1992,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 7.8
+    },
+    {
+        "year": 1992,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 7.7
+    },
+    {
+        "year": 1992,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 7.6
+    },
+    {
+        "year": 1992,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 7.6
+    },
+    {
+        "year": 1992,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 7.3
+    },
+    {
+        "year": 1992,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 7.4
+    },
+    {
+        "year": 1992,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 7.4
+    },
+    {
+        "year": 1993,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 7.3
+    },
+    {
+        "year": 1993,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 7.1
+    },
+    {
+        "year": 1993,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 7
+    },
+    {
+        "year": 1993,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 7.1
+    },
+    {
+        "year": 1993,
+        "month": "May",
+        "monthNum": 5,
+        "val": 7.1
+    },
+    {
+        "year": 1993,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 7
+    },
+    {
+        "year": 1993,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 6.9
+    },
+    {
+        "year": 1993,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 6.8
+    },
+    {
+        "year": 1993,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 6.7
+    },
+    {
+        "year": 1993,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 6.8
+    },
+    {
+        "year": 1993,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 6.6
+    },
+    {
+        "year": 1993,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 6.5
+    },
+    {
+        "year": 1994,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 6.6
+    },
+    {
+        "year": 1994,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 6.6
+    },
+    {
+        "year": 1994,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 6.5
+    },
+    {
+        "year": 1994,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 6.4
+    },
+    {
+        "year": 1994,
+        "month": "May",
+        "monthNum": 5,
+        "val": 6.1
+    },
+    {
+        "year": 1994,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 6.1
+    },
+    {
+        "year": 1994,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 6.1
+    },
+    {
+        "year": 1994,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 6
+    },
+    {
+        "year": 1994,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 5.9
+    },
+    {
+        "year": 1994,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 5.8
+    },
+    {
+        "year": 1994,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 5.6
+    },
+    {
+        "year": 1994,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 5.5
+    },
+    {
+        "year": 1995,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 5.6
+    },
+    {
+        "year": 1995,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 5.4
+    },
+    {
+        "year": 1995,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 5.4
+    },
+    {
+        "year": 1995,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 5.8
+    },
+    {
+        "year": 1995,
+        "month": "May",
+        "monthNum": 5,
+        "val": 5.6
+    },
+    {
+        "year": 1995,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 5.6
+    },
+    {
+        "year": 1995,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 5.7
+    },
+    {
+        "year": 1995,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 5.7
+    },
+    {
+        "year": 1995,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 5.6
+    },
+    {
+        "year": 1995,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 5.5
+    },
+    {
+        "year": 1995,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 5.6
+    },
+    {
+        "year": 1995,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 5.6
+    },
+    {
+        "year": 1996,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 5.6
+    },
+    {
+        "year": 1996,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 5.5
+    },
+    {
+        "year": 1996,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 5.5
+    },
+    {
+        "year": 1996,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 5.6
+    },
+    {
+        "year": 1996,
+        "month": "May",
+        "monthNum": 5,
+        "val": 5.6
+    },
+    {
+        "year": 1996,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 5.3
+    },
+    {
+        "year": 1996,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 5.5
+    },
+    {
+        "year": 1996,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 5.1
+    },
+    {
+        "year": 1996,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 5.2
+    },
+    {
+        "year": 1996,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 5.2
+    },
+    {
+        "year": 1996,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 5.4
+    },
+    {
+        "year": 1996,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 5.4
+    },
+    {
+        "year": 1997,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 5.3
+    },
+    {
+        "year": 1997,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 5.2
+    },
+    {
+        "year": 1997,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 5.2
+    },
+    {
+        "year": 1997,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 5.1
+    },
+    {
+        "year": 1997,
+        "month": "May",
+        "monthNum": 5,
+        "val": 4.9
+    },
+    {
+        "year": 1997,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 5
+    },
+    {
+        "year": 1997,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 4.9
+    },
+    {
+        "year": 1997,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 4.8
+    },
+    {
+        "year": 1997,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 4.9
+    },
+    {
+        "year": 1997,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 4.7
+    },
+    {
+        "year": 1997,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 4.6
+    },
+    {
+        "year": 1997,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 4.7
+    },
+    {
+        "year": 1998,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 4.6
+    },
+    {
+        "year": 1998,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 4.6
+    },
+    {
+        "year": 1998,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 4.7
+    },
+    {
+        "year": 1998,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 4.3
+    },
+    {
+        "year": 1998,
+        "month": "May",
+        "monthNum": 5,
+        "val": 4.4
+    },
+    {
+        "year": 1998,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 4.5
+    },
+    {
+        "year": 1998,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 4.5
+    },
+    {
+        "year": 1998,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 4.5
+    },
+    {
+        "year": 1998,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 4.6
+    },
+    {
+        "year": 1998,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 4.5
+    },
+    {
+        "year": 1998,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 4.4
+    },
+    {
+        "year": 1998,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 4.4
+    },
+    {
+        "year": 1999,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 4.3
+    },
+    {
+        "year": 1999,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 4.4
+    },
+    {
+        "year": 1999,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 4.2
+    },
+    {
+        "year": 1999,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 4.3
+    },
+    {
+        "year": 1999,
+        "month": "May",
+        "monthNum": 5,
+        "val": 4.2
+    },
+    {
+        "year": 1999,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 4.3
+    },
+    {
+        "year": 1999,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 4.3
+    },
+    {
+        "year": 1999,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 4.2
+    },
+    {
+        "year": 1999,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 4.2
+    },
+    {
+        "year": 1999,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 4.1
+    },
+    {
+        "year": 1999,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 4.1
+    },
+    {
+        "year": 1999,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 4
+    },
+    {
+        "year": 2000,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 4
+    },
+    {
+        "year": 2000,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 4.1
+    },
+    {
+        "year": 2000,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 4
+    },
+    {
+        "year": 2000,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 3.8
+    },
+    {
+        "year": 2000,
+        "month": "May",
+        "monthNum": 5,
+        "val": 4
+    },
+    {
+        "year": 2000,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 4
+    },
+    {
+        "year": 2000,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 4
+    },
+    {
+        "year": 2000,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 4.1
+    },
+    {
+        "year": 2000,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 3.9
+    },
+    {
+        "year": 2000,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 3.9
+    },
+    {
+        "year": 2000,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 3.9
+    },
+    {
+        "year": 2000,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 3.9
+    },
+    {
+        "year": 2001,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 4.2
+    },
+    {
+        "year": 2001,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 4.2
+    },
+    {
+        "year": 2001,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 4.3
+    },
+    {
+        "year": 2001,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 4.4
+    },
+    {
+        "year": 2001,
+        "month": "May",
+        "monthNum": 5,
+        "val": 4.3
+    },
+    {
+        "year": 2001,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 4.5
+    },
+    {
+        "year": 2001,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 4.6
+    },
+    {
+        "year": 2001,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 4.9
+    },
+    {
+        "year": 2001,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 5
+    },
+    {
+        "year": 2001,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 5.3
+    },
+    {
+        "year": 2001,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 5.5
+    },
+    {
+        "year": 2001,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 5.7
+    },
+    {
+        "year": 2002,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 5.7
+    },
+    {
+        "year": 2002,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 5.7
+    },
+    {
+        "year": 2002,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 5.7
+    },
+    {
+        "year": 2002,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 5.9
+    },
+    {
+        "year": 2002,
+        "month": "May",
+        "monthNum": 5,
+        "val": 5.8
+    },
+    {
+        "year": 2002,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 5.8
+    },
+    {
+        "year": 2002,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 5.8
+    },
+    {
+        "year": 2002,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 5.7
+    },
+    {
+        "year": 2002,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 5.7
+    },
+    {
+        "year": 2002,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 5.7
+    },
+    {
+        "year": 2002,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 5.9
+    },
+    {
+        "year": 2002,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 6
+    },
+    {
+        "year": 2003,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 5.8
+    },
+    {
+        "year": 2003,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 5.9
+    },
+    {
+        "year": 2003,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 5.9
+    },
+    {
+        "year": 2003,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 6
+    },
+    {
+        "year": 2003,
+        "month": "May",
+        "monthNum": 5,
+        "val": 6.1
+    },
+    {
+        "year": 2003,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 6.3
+    },
+    {
+        "year": 2003,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 6.2
+    },
+    {
+        "year": 2003,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 6.1
+    },
+    {
+        "year": 2003,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 6.1
+    },
+    {
+        "year": 2003,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 6
+    },
+    {
+        "year": 2003,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 5.8
+    },
+    {
+        "year": 2003,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 5.7
+    },
+    {
+        "year": 2004,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 5.7
+    },
+    {
+        "year": 2004,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 5.6
+    },
+    {
+        "year": 2004,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 5.8
+    },
+    {
+        "year": 2004,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 5.6
+    },
+    {
+        "year": 2004,
+        "month": "May",
+        "monthNum": 5,
+        "val": 5.6
+    },
+    {
+        "year": 2004,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 5.6
+    },
+    {
+        "year": 2004,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 5.5
+    },
+    {
+        "year": 2004,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 5.4
+    },
+    {
+        "year": 2004,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 5.4
+    },
+    {
+        "year": 2004,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 5.5
+    },
+    {
+        "year": 2004,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 5.4
+    },
+    {
+        "year": 2004,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 5.4
+    },
+    {
+        "year": 2005,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 5.3
+    },
+    {
+        "year": 2005,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 5.4
+    },
+    {
+        "year": 2005,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 5.2
+    },
+    {
+        "year": 2005,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 5.2
+    },
+    {
+        "year": 2005,
+        "month": "May",
+        "monthNum": 5,
+        "val": 5.1
+    },
+    {
+        "year": 2005,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 5
+    },
+    {
+        "year": 2005,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 5
+    },
+    {
+        "year": 2005,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 4.9
+    },
+    {
+        "year": 2005,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 5
+    },
+    {
+        "year": 2005,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 5
+    },
+    {
+        "year": 2005,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 5
+    },
+    {
+        "year": 2005,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 4.9
+    },
+    {
+        "year": 2006,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 4.7
+    },
+    {
+        "year": 2006,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 4.8
+    },
+    {
+        "year": 2006,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 4.7
+    },
+    {
+        "year": 2006,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 4.7
+    },
+    {
+        "year": 2006,
+        "month": "May",
+        "monthNum": 5,
+        "val": 4.6
+    },
+    {
+        "year": 2006,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 4.6
+    },
+    {
+        "year": 2006,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 4.7
+    },
+    {
+        "year": 2006,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 4.7
+    },
+    {
+        "year": 2006,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 4.5
+    },
+    {
+        "year": 2006,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 4.4
+    },
+    {
+        "year": 2006,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 4.5
+    },
+    {
+        "year": 2006,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 4.4
+    },
+    {
+        "year": 2007,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 4.6
+    },
+    {
+        "year": 2007,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 4.5
+    },
+    {
+        "year": 2007,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 4.4
+    },
+    {
+        "year": 2007,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 4.5
+    },
+    {
+        "year": 2007,
+        "month": "May",
+        "monthNum": 5,
+        "val": 4.4
+    },
+    {
+        "year": 2007,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 4.6
+    },
+    {
+        "year": 2007,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 4.7
+    },
+    {
+        "year": 2007,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 4.6
+    },
+    {
+        "year": 2007,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 4.7
+    },
+    {
+        "year": 2007,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 4.7
+    },
+    {
+        "year": 2007,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 4.7
+    },
+    {
+        "year": 2007,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 5
+    },
+    {
+        "year": 2008,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 5
+    },
+    {
+        "year": 2008,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 4.9
+    },
+    {
+        "year": 2008,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 5.1
+    },
+    {
+        "year": 2008,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 5
+    },
+    {
+        "year": 2008,
+        "month": "May",
+        "monthNum": 5,
+        "val": 5.4
+    },
+    {
+        "year": 2008,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 5.6
+    },
+    {
+        "year": 2008,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 5.8
+    },
+    {
+        "year": 2008,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 6.1
+    },
+    {
+        "year": 2008,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 6.1
+    },
+    {
+        "year": 2008,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 6.5
+    },
+    {
+        "year": 2008,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 6.8
+    },
+    {
+        "year": 2008,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 7.3
+    },
+    {
+        "year": 2009,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 7.8
+    },
+    {
+        "year": 2009,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 8.3
+    },
+    {
+        "year": 2009,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 8.7
+    },
+    {
+        "year": 2009,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 9
+    },
+    {
+        "year": 2009,
+        "month": "May",
+        "monthNum": 5,
+        "val": 9.4
+    },
+    {
+        "year": 2009,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 9.5
+    },
+    {
+        "year": 2009,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 9.5
+    },
+    {
+        "year": 2009,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 9.6
+    },
+    {
+        "year": 2009,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 9.8
+    },
+    {
+        "year": 2009,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 10
+    },
+    {
+        "year": 2009,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 9.9
+    },
+    {
+        "year": 2009,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 9.9
+    },
+    {
+        "year": 2010,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 9.7
+    },
+    {
+        "year": 2010,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 9.8
+    },
+    {
+        "year": 2010,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 9.9
+    },
+    {
+        "year": 2010,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 9.9
+    },
+    {
+        "year": 2010,
+        "month": "May",
+        "monthNum": 5,
+        "val": 9.6
+    },
+    {
+        "year": 2010,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 9.4
+    },
+    {
+        "year": 2010,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 9.5
+    },
+    {
+        "year": 2010,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 9.5
+    },
+    {
+        "year": 2010,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 9.5
+    },
+    {
+        "year": 2010,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 9.5
+    },
+    {
+        "year": 2010,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 9.8
+    },
+    {
+        "year": 2010,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 9.4
+    },
+    {
+        "year": 2011,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 9.1
+    },
+    {
+        "year": 2011,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 9
+    },
+    {
+        "year": 2011,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 9
+    },
+    {
+        "year": 2011,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 9.1
+    },
+    {
+        "year": 2011,
+        "month": "May",
+        "monthNum": 5,
+        "val": 9
+    },
+    {
+        "year": 2011,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 9.1
+    },
+    {
+        "year": 2011,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 9
+    },
+    {
+        "year": 2011,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 9
+    },
+    {
+        "year": 2011,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 9
+    },
+    {
+        "year": 2011,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 8.8
+    },
+    {
+        "year": 2011,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 8.6
+    },
+    {
+        "year": 2011,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 8.5
+    },
+    {
+        "year": 2012,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 8.2
+    },
+    {
+        "year": 2012,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 8.3
+    },
+    {
+        "year": 2012,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 8.2
+    },
+    {
+        "year": 2012,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 8.2
+    },
+    {
+        "year": 2012,
+        "month": "May",
+        "monthNum": 5,
+        "val": 8.2
+    },
+    {
+        "year": 2012,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 8.2
+    },
+    {
+        "year": 2012,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 8.2
+    },
+    {
+        "year": 2012,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 8.1
+    },
+    {
+        "year": 2012,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 7.8
+    },
+    {
+        "year": 2012,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 7.8
+    },
+    {
+        "year": 2012,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 7.8
+    },
+    {
+        "year": 2012,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 7.9
+    },
+    {
+        "year": 2013,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 7.9
+    },
+    {
+        "year": 2013,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 7.7
+    },
+    {
+        "year": 2013,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 7.5
+    },
+    {
+        "year": 2013,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 7.5
+    },
+    {
+        "year": 2013,
+        "month": "May",
+        "monthNum": 5,
+        "val": 7.5
+    },
+    {
+        "year": 2013,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 7.5
+    },
+    {
+        "year": 2013,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 7.3
+    },
+    {
+        "year": 2013,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 7.2
+    },
+    {
+        "year": 2013,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 7.2
+    },
+    {
+        "year": 2013,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": 7.2
+    },
+    {
+        "year": 2013,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": 7
+    },
+    {
+        "year": 2013,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": 6.7
+    },
+    {
+        "year": 2014,
+        "month": "Jan",
+        "monthNum": 1,
+        "val": 6.6
+    },
+    {
+        "year": 2014,
+        "month": "Feb",
+        "monthNum": 2,
+        "val": 6.7
+    },
+    {
+        "year": 2014,
+        "month": "Mar",
+        "monthNum": 3,
+        "val": 6.7
+    },
+    {
+        "year": 2014,
+        "month": "Apr",
+        "monthNum": 4,
+        "val": 6.3
+    },
+    {
+        "year": 2014,
+        "month": "May",
+        "monthNum": 5,
+        "val": 6.3
+    },
+    {
+        "year": 2014,
+        "month": "Jun",
+        "monthNum": 6,
+        "val": 6.1
+    },
+    {
+        "year": 2014,
+        "month": "Jul",
+        "monthNum": 7,
+        "val": 6.2
+    },
+    {
+        "year": 2014,
+        "month": "Aug",
+        "monthNum": 8,
+        "val": 6.1
+    },
+    {
+        "year": 2014,
+        "month": "Sep",
+        "monthNum": 9,
+        "val": 5.9
+    },
+    {
+        "year": 2014,
+        "month": "Oct",
+        "monthNum": 10,
+        "val": null
+    },
+    {
+        "year": 2014,
+        "month": "Nov",
+        "monthNum": 11,
+        "val": null
+    },
+    {
+        "year": 2014,
+        "month": "Dec",
+        "monthNum": 12,
+        "val": null
+    }
+]
